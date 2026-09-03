@@ -132,19 +132,6 @@ Regularly practicing JavaScript challenges to improve logical thinking, algorith
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=arifdotdev&show_icons=true&hide_border=true&count_private=true"
-    alt="Arif Mondol's GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifdotdev&layout=compact&hide_border=true"
-    alt="Top Languages"
-    height="165"
-  />
-</p>
-
 ### 🔥 Contribution Streak
 
 <p align="center">
