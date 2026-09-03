@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arif Mondol 👋</h1>
+<h1 align="center">Hi, I'm Arif 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer | JavaScript &amp; TypeScript | Building for the Web</b>
