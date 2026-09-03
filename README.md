@@ -12,6 +12,14 @@
 </p>
 
 ---
+<p align="center">
+  <img
+    src="./arif-github-banner_1.png"
+    alt="Arif Mondol - Full-Stack Developer"
+    width="100%"
+  />
+</p>
+
 
 I'm a developer focused on building modern, responsive, and scalable web applications.
 
