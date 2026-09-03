@@ -160,9 +160,3 @@ Regularly practicing JavaScript challenges to improve logical thinking, algorith
 I'm always interested in connecting with developers, collaborating on projects, and discussing technology.
 
 - **GitHub:** [@arifdotdev](https://github.com/arifdotdev)
-
----
-
-<p align="center">
-  💡 <b>Keep Learning. Keep Building. Keep Shipping.</b> 🚀
-</p>
