@@ -4,12 +4,7 @@
   <b>Full-Stack Developer | JavaScript &amp; TypeScript | Building for the Web</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/arifdotdev">
-    <img src="https://img.shields.io/badge/GitHub-arifdotdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=arifdotdev&style=for-the-badge&color=blue" alt="Profile views" />
-</p>
+
 
 ---
 <p align="center">
