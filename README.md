@@ -4,7 +4,7 @@
   <b>Full-Stack Developer | JavaScript &amp; TypeScript | Building for the Web</b>
 </p>
 
-
+<div><img src="arif-github-banner_1.png" /></div>
 
 I'm a developer focused on building modern, responsive, and scalable web applications.
 
