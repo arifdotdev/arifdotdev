@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arif 👋</h1>
+<h1 align="center">Hi, I'm MINION 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer | JavaScript &amp; TypeScript | Building for the Web</b>
@@ -10,7 +10,6 @@ I'm a developer focused on building modern, responsive, and scalable web applica
 
 I enjoy turning ideas into real products, learning new technologies, solving programming problems, and continuously improving my development skills.
 
-<div><img src="arif-github-banner_1.png" /></div>
 ---
 
 ## 🚀 About Me
